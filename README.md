@@ -23,3 +23,16 @@ Use at least 5 different HTML elements.
 Ensure semantic correctness.
 
 Good luck and happy coding! 🚀💻
+
+
+# Responsive Multipage Website
+
+## 📌 Project Overview
+This project is a **responsive multipage website** built using **HTML5, CSS3, and JavaScript**. It includes three pages: **Home, About, and Contact**, ensuring a well-structured design with interactive elements.
+
+## 🚀 Features
+- **Semantic HTML5 structure** for accessibility and SEO.
+- **CSS3 styling** with responsive layouts using Flexbox and Grid.
+- **JavaScript interactivity**, including form validation and dynamic elements.
+- **Mobile-friendly design** with media queries.
+- **Deployed on** [GitHub Pages]
